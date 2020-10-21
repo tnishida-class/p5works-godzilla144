@@ -3,7 +3,7 @@ function setup(){
   for(let i = 5; i < 55; i = i + 5){
    // BLANK[1]
 noFill();
-if(i < 30){
+ if(i < 30){
    stroke(0, 0, 255);
  }
  else{
