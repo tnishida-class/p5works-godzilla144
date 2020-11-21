@@ -14,6 +14,7 @@ function setup() {
       fill (200);
     }
     rect(size * i, size * j, size, size);
+  
     }
   }
 }
